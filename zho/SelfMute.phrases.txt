@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"sm_friends_nopublic"
+	{
+		"zho"		"無法讀取您的好友信息, 請先將個人檔案設定為公開!"
+	}
+	"sm_mute_group"
+	{	
+		"#format"	"{1:s}"
+		"zho"		"成功靜音: {green}{1}"
+	}
+	"sm_unmute_group"
+	{
+		"#format"	"{1:s}"
+		"zho"		"取消靜音: {green}{1}"
+	}
+	"sm_mute_all"
+	{
+		"zho"		"取消靜音:{green} 所有玩家"
+	}
+	"sm_dont_mute_me"
+	{
+		"zho"		"無法靜音 {green}你自己{default}."
+	}
+	"sm_mute_player"
+	{
+		"#format"	"{1:s}"
+		"zho"		"成功靜音:{green} {1}"
+	}
+	"sm_unmute_no_work"
+	{
+		"zho"		"取消靜音不起作用."
+	}
+	"sm_unmute_player"
+	{
+		"#format"	"{1:s}"
+		"zho"		"取消靜音:{green} {1}"
+	}
+	"sm_no_mute_anyone"
+	{
+		"zho"		"您並未靜音任何玩家."
+	}
+	"player_nouse"
+	{
+		"zho"		"玩家已不再可用."
+	}
+	"Groups"
+	{
+		"zho"		"選擇組別"
+	}
+	"Talking players"
+	{
+		"zho"		"發言中的玩家"
+	}
+	"All players"
+	{
+		"zho"		"所有玩家"
+	}
+}
